@@ -1,0 +1,68 @@
+{
+
+    "products":[
+        {
+            "id":1,
+            "name":"ultra watch",
+            "price":1500,
+            "image":"w1.jpg",
+            "brand":"apple"
+        },
+        {
+            "id":2,
+            "name":"smart watch",
+            "price":3400,
+            "image":"w2.jpg",
+            "brand":"Noise"
+        },
+        {
+            "id":3,
+            "name":"fire bolt",
+            "price":2500,
+            "image":"w3.jpg",
+            "brand":"Boat"
+        },
+        {
+            "id":4,
+            "name":"Titan raga",
+            "price":6000,
+            "image":"w4.jpg",
+            "brand":"Titan"
+        },
+        {
+            "id":5,
+            "name":"air three",
+            "price":4500,
+            "image":"w5.jpg",
+            "brand":"Noise"
+        },
+        {
+            "id":6,
+            "name":"Color watch ",
+            "price":2300,
+            "image":"w6.jpg",
+            "brand":"HMT"
+        },
+        {
+            "id":7,
+            "name":"Samsung dual watch",
+            "price":4500,
+            "image":"w7.jpg",
+            "brand":"Samsung"
+        },
+        {
+            "id":8,
+            "name":"Realme three",
+            "price":23900,
+            "image":"w8.jpg",
+            "brand":"Realme"
+        },
+        {
+            "id":9,
+            "name":"sonata smart watch",
+            "price":34500,
+            "image":"w9.jpg",
+            "brand":"Sonata"
+        }
+    ]
+}
